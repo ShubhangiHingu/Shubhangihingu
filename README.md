@@ -1,12 +1,12 @@
-### Hi there, I'm Shubhangi 👋 
+### Hi there, I'm Shubhangi  👋 
 
 
 
-## I'm a Student!!
+## I'm a Student !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ I'm student
+- ⚡ I'm  also student
 
 ### Connect with me:
 
