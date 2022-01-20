@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Shubhangi Hingu
 #### I am a student.
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
 
 Skills: PHP  / MYSQL / JAVASCRIPT / HTML / CSS
 
