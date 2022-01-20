@@ -1,36 +1,30 @@
-### Hi there, I'm Shubhangi  👋 
+### Hi there 👋, My name is Shubhangi Hingu
+#### I am a student.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: PHP  / MYSQL / JAVASCRIPT / HTML / CSS
+
+- 🔭 I’m currently working on PHP 
+- 🌱 I’m currently learning PHP PROGRAMMING 
+- 📫 How to reach me: linkedln 
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: I am a Gujarati 😂 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shubhangihingu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shubhangi-hingu-03a116209//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/hingu_shubhangi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://icodergirll.000webhostapp.com/)  
 
-## I'm a Student !!
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ I'm  also student
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shubhangihingu)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Connect with me:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhangihingu)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhangihingu&show_icons=true&count_private=true)  
 
-<br />
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shubhangihingu)  
 
-### Languages and Tools:
+![GitHub metrics](https://metrics.lecoq.io/Shubhangihingu)  
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shubhangihingu)  
 
-
-<br />
-<br />
-
----
-
-
+![Profile views](https://gpvc.arturio.dev/Shubhangihingu)  
