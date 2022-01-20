@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Shubhangi Hingu
 #### I am a student.
 Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+Programmer: A machine that turns Tea into code.
 
 Skills: PHP  / MYSQL / JAVASCRIPT / HTML / CSS
 
