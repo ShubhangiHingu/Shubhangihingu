@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhangihingu" alt="shubhangihingu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shubhangi_hingu" target="blank"><img src="https://img.shields.io/twitter/follow/shubhangi_hingu?logo=twitter&style=for-the-badge" alt="shubhangi_hingu" /></a> </p>
 
 - 🔭 I’m currently working on **PHP**
 
@@ -25,6 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/shubhangi_hingu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhangi_hingu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhangi-hingu-03a116209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhangi-hingu-03a116209/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shubhangi hingu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shubhangi hingu" height="30" width="40" /></a>
 <a href="/https://icodergirll.000webhostapp.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://icodergirll.000webhostapp.com/" height="30" width="40" /></a>
