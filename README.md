@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shubhangi_hingu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhangi_hingu" height="30" width="40" /></a>
+<a href="https://twitter.com/hingu_shubhangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhangi_hingu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhangi-hingu-03a116209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhangi-hingu-03a116209/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shubhangi hingu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shubhangi hingu" height="30" width="40" /></a>
 <a href="/https://icodergirll.000webhostapp.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://icodergirll.000webhostapp.com/" height="30" width="40" /></a>
