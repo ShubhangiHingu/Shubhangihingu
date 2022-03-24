@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hingu_shubhangi" target="blank"><img src="https://img.shields.io/twitter/follow/shubhangi_hingu?logo=twitter&style=for-the-badge" alt="shubhangi_hingu" /></a> </p>
 
-- 🔭 I’m currently working on **PHP**
+- 🔭 I’m currently working on **JAVASCRIPT**
 
-- 🌱 I’m currently learning **PHP LARAVEL**
+- 🌱 I’m currently learning **NODE JS**
 
 - 👨‍💻 All of my projects are available at [https://icodergirll.000webhostapp.com/](https://icodergirll.000webhostapp.com/)
 
