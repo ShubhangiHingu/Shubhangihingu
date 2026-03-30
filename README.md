@@ -29,18 +29,18 @@
 ```yaml
 name: Shubhangi Hingu
 located_in: Ahmedabad, India
-current_job: Backend Developer
+current_job: Python Developer
 education:
   [
     "Self-Taught Developer",
     "Bachelor's in Computer Engineering",
   ]
-company: Mobiosolutions
 
 fields_of_interests:
   [
     "Web Development",
     "UI/UX",
+    "Data Analysis",
   ]
 technical_background:
   [
