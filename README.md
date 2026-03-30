@@ -89,7 +89,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 </a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shubhangihingu/Shubhangihingu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Shubhangihingu/Shubhangihingu/output/github-snake.svg" alt="Snake animation" />
 </p>
   
 <p align="left">
