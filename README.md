@@ -1,127 +1,175 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:EC4899&height=180&section=header&text=Shubhangi%20Hingu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UI%2FUX%20Designer%20%7C%20Ex-Software%20Developer&descAlignY=58&descSize=18" alt="Shubhangi Hingu banner"/>
+</p>
 
-# Hi, I'm Shubhangi Hingu 👋
+<h1 align="center">Hello, I'm Shubhangi 👋</h1>
 
-### UI/UX Designer · Ex-Software Developer · Design-to-Code Thinker
+<h3 align="center">
+  I design clear, user-centred digital experiences — with the technical understanding to make them practical to build.
+</h3>
 
-I turn complex product ideas into clear, usable and visually consistent experiences —  
-with the technical understanding to make every design practical to build.
+<p align="center">
+  <a href="https://shubhangi-hingu.netlify.app/"><img src="https://img.shields.io/badge/View_Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/shubhangi-hingu/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shubhangihingu@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shubhangi-hingu.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-hingu/)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhangihingu@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShubhangiHingu&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views"/>
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=ShubhangiHingu&label=Profile%20views&color=6C63FF&style=flat)
-
-</div>
+<p align="center">
+  <img width="420" src="https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp" alt="Creative designer at work"/>
+</p>
 
 ---
 
-## ✦ About Me
+<h2>🌷 &nbsp;A Little About Me</h2>
 
-```text
-Designer mindset  +  Developer foundation  =  Feasible, user-centred products
+```yaml
+name: Shubhangi Hingu
+located_in: Ahmedabad, India
+current_focus: UI/UX Design
+professional_identity: UI/UX Designer (Fresher) — Ex-Software Developer
+
+education:
+  - "Bachelor of Engineering in Computer Engineering"
+  - "UI/UX Design Training — Coding Cloud Institute"
+
+experience:
+  - "3 years of professional software development"
+  - "Python Developer — Magenta Insights"
+  - "Node.js Developer — Mobio Solutions"
+
+design_interests:
+  - "User-Centred Product Design"
+  - "Mobile App Design"
+  - "Dashboard Design"
+  - "Design Systems"
+  - "Interaction Design"
+
+currently_working_on:
+  - "Tunify — Music Streaming App"
+  - "Building end-to-end UI/UX case studies"
+  - "Strengthening design-to-development handoff"
+
+career_goal: "Create useful, accessible and technically feasible products"
+open_to: "UI/UX Designer, Product Designer, UI Designer and Trainee roles"
 ```
 
-I'm a UI/UX Designer based in Ahmedabad, India, transitioning into design after **3 years of professional software-development experience** in Node.js and Python.
+> **Designer mindset + developer foundation = thoughtful and buildable products.**
 
-My background helps me bridge the gap between design and engineering. I understand user needs, reusable design systems and polished interactions — while also considering responsive behaviour, APIs and implementation feasibility from the beginning.
-
-- 🎨 Currently completing hands-on **UI/UX Design training at Coding Cloud Institute**
-- 🧩 Skilled in user flows, wireframes, prototypes, responsive UI and design systems
-- 💻 Comfortable collaborating with developers using HTML, CSS, JavaScript and API knowledge
-- 🔭 Currently designing and developing **Tunify**, an end-to-end music-streaming experience
-- 🌱 Open to **UI/UX Designer, Product Designer, UI Designer and Design Intern/Trainee** opportunities
+I spent three years building the products designers hand off. Now I bring that engineering perspective to the design side — helping teams reduce feasibility surprises, communicate better and move smoothly from Figma to development.
 
 ---
 
-## ✦ Featured Design Work
+<h2>✨ &nbsp;Featured UI/UX Projects</h2>
 
-| Project | What I Designed | Highlights | Status |
-|---|---|---|---|
-| 🎧 **Tunify** | End-to-end music streaming app | Onboarding, authentication, home, explore, player, profile, library and reusable design system | In progress |
-| 📊 **MAIN Insights** | HR management dashboard | Headcount and attrition insights, attendance charts, employee tables, filters and approvals | Case study |
-| 🚀 **MainOps** | Startup scale platform | Dark-theme landing experience, case-study storytelling, growth metrics and build-test-deploy tracker | Case study |
+<table>
+  <tr>
+    <td width="33%" valign="top"><h3>🎧 Tunify</h3><p><b>Music Streaming App</b></p><p>An end-to-end mobile experience covering onboarding, authentication, home, explore, now playing, profile and library.</p><p><b>Highlights:</b> reusable components, colour and typography system, interactive flows and frontend planning.</p><a href="https://shubhangi-hingu.netlify.app/">View Project →</a></td>
+    <td width="33%" valign="top"><h3>📊 MAIN Insights</h3><p><b>HR Management Dashboard</b></p><p>A data-focused dashboard for headcount, attrition, attendance, employee records and pending approvals.</p><p><b>Highlights:</b> charts, multi-filter controls, data tables, status badges and reusable dashboard components.</p><a href="https://shubhangi-hingu.netlify.app/">View Project →</a></td>
+    <td width="33%" valign="top"><h3>🚀 MainOps</h3><p><b>Startup Scale Platform</b></p><p>A dark-themed DevOps/SRE experience communicating technical capability through clear visual storytelling.</p><p><b>Highlights:</b> landing hero, case-study metrics, growth chart and build-test-deploy tracker.</p><a href="https://shubhangi-hingu.netlify.app/">View Project →</a></td>
+  </tr>
+</table>
 
-<div align="center">
-
-### [Explore all case studies and live interactions →](https://shubhangi-hingu.netlify.app/)
-
-</div>
-
----
-
-## ✦ My Design Process
-
-> **Discover** → **Define** → **Explore** → **Design** → **Prototype** → **Test & Iterate**
-
-I start with the problem, map the user's journey, explore flows and low-fidelity ideas, then build consistent high-fidelity interfaces and interactive prototypes. My development experience lets me validate feasibility throughout the process — not only at handoff.
+<p align="center">
+  <a href="https://shubhangi-hingu.netlify.app/"><img src="https://img.shields.io/badge/Explore_All_Case_Studies-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" alt="Explore case studies"/></a>
+</p>
 
 ---
 
-## ✦ Design Skills & Tools
+<h2>🧠 &nbsp;My Design Process</h2>
 
-### Product Design
+<p align="center"><b>Discover</b> &nbsp;→&nbsp; <b>Define</b> &nbsp;→&nbsp; <b>Explore</b> &nbsp;→&nbsp; <b>Design</b> &nbsp;→&nbsp; <b>Prototype</b> &nbsp;→&nbsp; <b>Test & Iterate</b></p>
 
-![User Research](https://img.shields.io/badge/User_Research-F4F1FF?style=flat-square&logoColor=333)
-![User Flows](https://img.shields.io/badge/User_Flows-F4F1FF?style=flat-square&logoColor=333)
-![Wireframing](https://img.shields.io/badge/Wireframing-F4F1FF?style=flat-square&logoColor=333)
-![Prototyping](https://img.shields.io/badge/Prototyping-F4F1FF?style=flat-square&logoColor=333)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-F4F1FF?style=flat-square&logoColor=333)
-![Design Systems](https://img.shields.io/badge/Design_Systems-F4F1FF?style=flat-square&logoColor=333)
-![Interaction Design](https://img.shields.io/badge/Interaction_Design-F4F1FF?style=flat-square&logoColor=333)
-![Usability](https://img.shields.io/badge/Usability-F4F1FF?style=flat-square&logoColor=333)
-
-### Tools
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Technical Foundation
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-6C63FF?style=flat-square)
+- Understand the problem, users and business goals
+- Map user flows and information architecture
+- Explore ideas through wireframes
+- Create consistent high-fidelity interfaces
+- Build interactive prototypes and test usability
+- Prepare practical, developer-friendly handoff
 
 ---
 
-## ✦ Professional Journey
+<h2>🎨 &nbsp;Design Skills</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/User_Research-F4F1FF?style=for-the-badge&logoColor=333" alt="User Research"/>
+  <img src="https://img.shields.io/badge/User_Flows-F4F1FF?style=for-the-badge&logoColor=333" alt="User Flows"/>
+  <img src="https://img.shields.io/badge/Wireframing-F4F1FF?style=for-the-badge&logoColor=333" alt="Wireframing"/>
+  <img src="https://img.shields.io/badge/Prototyping-F4F1FF?style=for-the-badge&logoColor=333" alt="Prototyping"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-F4F1FF?style=for-the-badge&logoColor=333" alt="Responsive Design"/>
+  <img src="https://img.shields.io/badge/Design_Systems-F4F1FF?style=for-the-badge&logoColor=333" alt="Design Systems"/>
+  <img src="https://img.shields.io/badge/Interaction_Design-F4F1FF?style=for-the-badge&logoColor=333" alt="Interaction Design"/>
+  <img src="https://img.shields.io/badge/Usability_Principles-F4F1FF?style=for-the-badge&logoColor=333" alt="Usability Principles"/>
+</p>
+
+---
+
+<h2>🛠️ &nbsp;Tools and Technologies</h2>
+
+<h3>Design Tools</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
+</p>
+
+<h3>Design-to-Code Foundation</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
+</p>
+
+---
+
+<h2>💼 &nbsp;Professional Journey</h2>
 
 | Role | Organisation | Period |
 |---|---|---|
-| UI/UX Design Trainee | Coding Cloud Institute | May 2026 – Present |
-| Python Developer | Magenta Insights | Jul 2024 – Jun 2025 |
-| Node.js Developer | Mobio Solutions | Mar 2022 – Mar 2024 |
-
-Three years spent building the products designers hand off gave me a close view of authentication flows, dashboards, role-based experiences, payment integrations and frontend-backend collaboration. Today, I bring that understanding to the design side.
+| **UI/UX Design Trainee** | Coding Cloud Institute | May 2026 – Present |
+| **Python Developer** | Magenta Insights | Jul 2024 – Jun 2025 |
+| **Node.js Developer** | Mobio Solutions | Mar 2022 – Mar 2024 |
 
 ---
 
-## ✦ Beyond Design
+<h2>📈 &nbsp;My GitHub Activity</h2>
 
-- **Sentiment Analysis API** — FastAPI, Hugging Face Transformers and real-time text scoring
-- **Employee Management System** — Flask, PostgreSQL, role management and leave tracking
-- **Bachelor of Engineering, Computer Engineering** — SSIT, Gandhinagar
+<p align="center">
+  <a href="https://github.com/ShubhangiHingu">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShubhangiHingu&theme=midnight-purple&show_icons=true&hide_border=true" alt="Shubhangi's GitHub statistics"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiHingu&theme=midnight-purple&layout=compact&hide_border=true" alt="Shubhangi's most-used languages"/>
+  </a>
+</p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhangiHingu&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak"/></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/ShubhangiHingu/ShubhangiHingu/output/github-snake.svg" alt="GitHub contribution snake animation"/></p>
 
 ---
 
-## ✦ Let's Create Something Meaningful
+<h2 align="center">💬 Let's Design Something Meaningful</h2>
 
-I'm looking for opportunities where I can solve genuine user problems, grow with an experienced design team and contribute my combined design-and-development perspective.
+<p align="center">I'm open to UI/UX design opportunities, collaborations and conversations about thoughtful digital products.</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://shubhangi-hingu.netlify.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/shubhangi-hingu/">LinkedIn</a> •
+  <a href="mailto:shubhangihingu@gmail.com">Email</a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shubhangi--hingu.netlify.app-6C63FF?style=for-the-badge)](https://shubhangi-hingu.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubhangi_Hingu-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhangi-hingu/)
-[![Email](https://img.shields.io/badge/Email-shubhangihingu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhangihingu@gmail.com)
+<p align="center"><i>Designed with empathy, built with intention ✦</i></p>
 
-<sub>Designed with empathy, built with intention ✦</sub>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:EC4899&height=120&section=footer" alt="Footer banner"/>
+</p>
